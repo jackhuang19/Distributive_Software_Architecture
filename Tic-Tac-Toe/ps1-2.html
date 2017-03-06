@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+     <script src="ps1-2.js" type="text/javascript"> </script>
+
+    <link rel="stylesheet" type="text/css" href="ps1-2.css">
+    <meta name="tic tac toe" content="tic tac toe">
+  </head>
+
+  <body>
+      <h1> Tic Tac Toe </h1>
+      <p> Reload page to restart game!</p>
+      <table>
+        <!--
+        Table is created with these values 
+        [00 01 02]
+        [10 11 12]
+        [20 21 22]
+        -->
+        <tr>
+          <td id="00" onclick="changecolor(this)"> </td>
+          <td id="01" onclick="changecolor(this)"> </td> 
+          <td id="02" onclick="changecolor(this)"> </td>
+        </tr>
+        <tr>
+          <td id="10" onclick="changecolor(this)"> </td>
+          <td id="11" onclick="changecolor(this)"> </td> 
+          <td id="12" onclick="changecolor(this)"> </td>
+        </tr>
+        <tr>
+          <td id="20" onclick="changecolor(this)"> </td>
+          <td id="21" onclick="changecolor(this)"> </td> 
+          <td id="22" onclick="changecolor(this)"> </td>
+        </tr>
+    </table>
+
+    <h1 id="message"> </h1>
+
+  </body>
+
+</html>
