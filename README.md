@@ -21,8 +21,8 @@ Course Overview
 Course Objectives
 
   By the end of the course you will:
-    • Learn the basic architecture of the web.
-    • Learn how to build a scalable web application from scratch.
-    • Learn the following languages: HMTL, CSS, JavaScript, PHP, Python (using Django).
-    • Learn database fundamentals (using MYSQL).
-    • Learn web development design patterns to build scalable applications.
+    • Learn the basic architecture of the web
+    • Learn how to build a scalable web application from scratch
+    • Learn the following languages: HMTL, CSS, JavaScript, PHP, Python (using Django)
+    • Learn database fundamentals (using MYSQL)
+    • Learn web development design patterns to build scalable applications
